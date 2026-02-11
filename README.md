@@ -1,4 +1,4 @@
-# PHonePlanner1
+# PHonePlanner
 
 Simple phone book web-app implement with PHP and JS.
 
